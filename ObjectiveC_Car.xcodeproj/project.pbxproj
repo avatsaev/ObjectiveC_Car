@@ -7,9 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A366EEB915F3C53A00BE1789 /* Tire.m in Sources */ = {isa = PBXBuildFile; fileRef = A366EEB815F3C53A00BE1789 /* Tire.m */; };
 		A3A3214715F29D4A005E721E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3A3214615F29D4A005E721E /* Foundation.framework */; };
 		A3A3214A15F29D4A005E721E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A3214915F29D4A005E721E /* main.m */; };
 		A3A3214E15F29D4A005E721E /* basics.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = A3A3214D15F29D4A005E721E /* basics.1 */; };
+		A3A3215615F2ABB5005E721E /* Car.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A3215515F2ABB5005E721E /* Car.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,11 +28,15 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		A3A3214215F29D4A005E721E /* basics */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = basics; sourceTree = BUILT_PRODUCTS_DIR; };
+		A366EEB615F3C2AB00BE1789 /* Tire.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Tire.h; sourceTree = "<group>"; };
+		A366EEB815F3C53A00BE1789 /* Tire.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Tire.m; sourceTree = "<group>"; };
+		A3A3214215F29D4A005E721E /* ObjectiveC_Car */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ObjectiveC_Car; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3A3214615F29D4A005E721E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A3A3214915F29D4A005E721E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		A3A3214C15F29D4A005E721E /* basics-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "basics-Prefix.pch"; sourceTree = "<group>"; };
+		A3A3214C15F29D4A005E721E /* ObjectiveC_Car-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ObjectiveC_Car-Prefix.pch"; sourceTree = "<group>"; };
 		A3A3214D15F29D4A005E721E /* basics.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = basics.1; sourceTree = "<group>"; };
+		A3A3215415F2AB57005E721E /* Car.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Car.h; sourceTree = "<group>"; };
+		A3A3215515F2ABB5005E721E /* Car.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Car.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +63,7 @@
 		A3A3214315F29D4A005E721E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A3A3214215F29D4A005E721E /* basics */,
+				A3A3214215F29D4A005E721E /* ObjectiveC_Car */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,6 +79,10 @@
 		A3A3214815F29D4A005E721E /* basics */ = {
 			isa = PBXGroup;
 			children = (
+				A3A3215415F2AB57005E721E /* Car.h */,
+				A366EEB615F3C2AB00BE1789 /* Tire.h */,
+				A3A3215515F2ABB5005E721E /* Car.m */,
+				A366EEB815F3C53A00BE1789 /* Tire.m */,
 				A3A3214915F29D4A005E721E /* main.m */,
 				A3A3214D15F29D4A005E721E /* basics.1 */,
 				A3A3214B15F29D4A005E721E /* Supporting Files */,
@@ -83,7 +93,7 @@
 		A3A3214B15F29D4A005E721E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				A3A3214C15F29D4A005E721E /* basics-Prefix.pch */,
+				A3A3214C15F29D4A005E721E /* ObjectiveC_Car-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -91,9 +101,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A3A3214115F29D4A005E721E /* basics */ = {
+		A3A3214115F29D4A005E721E /* ObjectiveC_Car */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A3A3215115F29D4A005E721E /* Build configuration list for PBXNativeTarget "basics" */;
+			buildConfigurationList = A3A3215115F29D4A005E721E /* Build configuration list for PBXNativeTarget "ObjectiveC_Car" */;
 			buildPhases = (
 				A3A3213E15F29D4A005E721E /* Sources */,
 				A3A3213F15F29D4A005E721E /* Frameworks */,
@@ -103,9 +113,9 @@
 			);
 			dependencies = (
 			);
-			name = basics;
+			name = ObjectiveC_Car;
 			productName = basics;
-			productReference = A3A3214215F29D4A005E721E /* basics */;
+			productReference = A3A3214215F29D4A005E721E /* ObjectiveC_Car */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -117,7 +127,7 @@
 				LastUpgradeCheck = 0440;
 				ORGANIZATIONNAME = "A. Vatsaev ";
 			};
-			buildConfigurationList = A3A3213C15F29D4A005E721E /* Build configuration list for PBXProject "basics" */;
+			buildConfigurationList = A3A3213C15F29D4A005E721E /* Build configuration list for PBXProject "ObjectiveC_Car" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -129,7 +139,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A3A3214115F29D4A005E721E /* basics */,
+				A3A3214115F29D4A005E721E /* ObjectiveC_Car */,
 			);
 		};
 /* End PBXProject section */
@@ -140,6 +150,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A3A3214A15F29D4A005E721E /* main.m in Sources */,
+				A3A3215615F2ABB5005E721E /* Car.m in Sources */,
+				A366EEB915F3C53A00BE1789 /* Tire.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -199,8 +211,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "basics/basics-Prefix.pch";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "basics/ObjectiveC_Car-Prefix.pch";
+				PRODUCT_NAME = ObjectiveC_Car;
 			};
 			name = Debug;
 		};
@@ -208,15 +220,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "basics/basics-Prefix.pch";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "basics/ObjectiveC_Car-Prefix.pch";
+				PRODUCT_NAME = ObjectiveC_Car;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A3A3213C15F29D4A005E721E /* Build configuration list for PBXProject "basics" */ = {
+		A3A3213C15F29D4A005E721E /* Build configuration list for PBXProject "ObjectiveC_Car" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A3A3214F15F29D4A005E721E /* Debug */,
@@ -225,13 +237,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A3A3215115F29D4A005E721E /* Build configuration list for PBXNativeTarget "basics" */ = {
+		A3A3215115F29D4A005E721E /* Build configuration list for PBXNativeTarget "ObjectiveC_Car" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A3A3215215F29D4A005E721E /* Debug */,
 				A3A3215315F29D4A005E721E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
