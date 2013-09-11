@@ -39,13 +39,6 @@ int main(int argc, const char * argv[])
     NSLog(@"Traveling 100 km...");
     [voiture travel:100];
     [voiture showTires];
-
-    
-    /* init with 2 ns arrays
-    NSArray* t1 =[NSArray arrayWithObjects:@"France",@"USA",@"Russie", nil];
-    NSArray* t2 =[NSArray arrayWithObjects:@"Paris",@"Washington",@"Moscow", nil];
-    NSDictionary * dictCap = [NSDictionary dictionaryWithObjects:t1 forKeys:t2];
-   */
     
     
     //init and read in dictos
