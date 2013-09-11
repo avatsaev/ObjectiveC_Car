@@ -1,0 +1,151 @@
+2013-09-11 17:40:06.092 basics[2799:303] 
+Tank is at 30 litters
+Road so far: 0km
+2013-09-11 17:40:06.094 basics[2799:303] -Tire N1: 
+2013-09-11 17:40:06.095 basics[2799:303] 
+Pressure: 25
+Condition: New (100)
+2013-09-11 17:40:06.096 basics[2799:303] -Tire N2: 
+2013-09-11 17:40:06.096 basics[2799:303] 
+Pressure: 25
+Condition: New (100)
+2013-09-11 17:40:06.097 basics[2799:303] -Tire N3: 
+2013-09-11 17:40:06.099 basics[2799:303] 
+Pressure: 25
+Condition: New (100)
+2013-09-11 17:40:06.099 basics[2799:303] -Tire N4: 
+2013-09-11 17:40:06.100 basics[2799:303] 
+Pressure: 25
+Condition: New (100)
+2013-09-11 17:40:06.101 basics[2799:303] Refuelling tank...
+2013-09-11 17:40:06.102 basics[2799:303] 
+Tank is at 100 litters
+Road so far: 0km
+2013-09-11 17:40:06.103 basics[2799:303] Traveling 100 km...
+2013-09-11 17:40:06.105 basics[2799:303] 
+Tank is at 75 litters
+Road so far: 100km
+2013-09-11 17:40:06.106 basics[2799:303] -Tire N1: 
+2013-09-11 17:40:06.106 basics[2799:303] 
+Pressure: 19
+Condition: Good (75)
+2013-09-11 17:40:06.109 basics[2799:303] -Tire N2: 
+2013-09-11 17:40:06.109 basics[2799:303] 
+Pressure: 19
+Condition: Good (75)
+2013-09-11 17:40:06.110 basics[2799:303] -Tire N3: 
+2013-09-11 17:40:06.155 basics[2799:303] 
+Pressure: 19
+Condition: Good (75)
+2013-09-11 17:40:06.157 basics[2799:303] -Tire N4: 
+2013-09-11 17:40:06.158 basics[2799:303] 
+Pressure: 19
+Condition: Good (75)
+2013-09-11 17:40:06.159 basics[2799:303] Traveling 101 km...
+2013-09-11 17:40:06.160 basics[2799:303] 
+Tank is at 50 litters
+Road so far: 201km
+2013-09-11 17:40:06.160 basics[2799:303] -Tire N1: 
+2013-09-11 17:40:06.161 basics[2799:303] 
+Pressure: 13
+Condition: Mediocre (50)
+2013-09-11 17:40:06.162 basics[2799:303] -Tire N2: 
+2013-09-11 17:40:06.163 basics[2799:303] 
+Pressure: 13
+Condition: Mediocre (50)
+2013-09-11 17:40:06.164 basics[2799:303] -Tire N3: 
+2013-09-11 17:40:06.164 basics[2799:303] 
+Pressure: 13
+Condition: Mediocre (50)
+2013-09-11 17:40:06.165 basics[2799:303] -Tire N4: 
+2013-09-11 17:40:06.166 basics[2799:303] 
+Pressure: 13
+Condition: Mediocre (50)
+2013-09-11 17:40:06.166 basics[2799:303] Traveling 100 km...
+2013-09-11 17:40:06.167 basics[2799:303] 
+Tank is at 25 litters
+Road so far: 301km
+2013-09-11 17:40:06.175 basics[2799:303] -Tire N1: 
+2013-09-11 17:40:06.216 basics[2799:303] 
+Pressure: 7
+Condition: Bad (25)
+2013-09-11 17:40:06.217 basics[2799:303] -Tire N2: 
+2013-09-11 17:40:06.218 basics[2799:303] 
+Pressure: 7
+Condition: Bad (25)
+2013-09-11 17:40:06.219 basics[2799:303] -Tire N3: 
+2013-09-11 17:40:06.220 basics[2799:303] 
+Pressure: 7
+Condition: Bad (25)
+2013-09-11 17:40:06.221 basics[2799:303] -Tire N4: 
+2013-09-11 17:40:06.221 basics[2799:303] 
+Pressure: 7
+Condition: Bad (25)
+2013-09-11 17:40:06.222 basics[2799:303] Traveling 100 km...
+2013-09-11 17:40:06.223 basics[2799:303] 
+Tank is at 0 litters
+Road so far: 401km
+2013-09-11 17:40:06.224 basics[2799:303] -Tire N1: 
+2013-09-11 17:40:06.224 basics[2799:303] 
+Pressure: 1
+Condition: Dead (0)
+2013-09-11 17:40:06.225 basics[2799:303] -Tire N2: 
+2013-09-11 17:40:06.226 basics[2799:303] 
+Pressure: 1
+Condition: Dead (0)
+2013-09-11 17:40:06.226 basics[2799:303] -Tire N3: 
+2013-09-11 17:40:06.227 basics[2799:303] 
+Pressure: 1
+Condition: Dead (0)
+2013-09-11 17:40:06.228 basics[2799:303] -Tire N4: 
+2013-09-11 17:40:06.228 basics[2799:303] 
+Pressure: 1
+Condition: Dead (0)
+2013-09-11 17:40:06.229 basics[2799:303] Traveling 100 km...
+2013-09-11 17:40:06.229 basics[2799:303] 
+WARINIG: There is no more fuel in the tank.
+2013-09-11 17:40:06.230 basics[2799:303] 
+WARINIG: Tire N1 is no longer usable! 
+Pressure: 1
+Condition:Dead
+2013-09-11 17:40:06.231 basics[2799:303] 
+----------ENTER Pit Stop-----------
+2013-09-11 17:40:06.231 basics[2799:303] 
+PitStop: Changing tire 1
+2013-09-11 17:40:06.232 basics[2799:303] 
+PitStop: Changing tire 2
+2013-09-11 17:40:06.233 basics[2799:303] 
+PitStop: Changing tire 3
+2013-09-11 17:40:06.233 basics[2799:303] 
+PitStop: Changing tire 4
+2013-09-11 17:40:06.234 basics[2799:303] 
+PitStop: fulling tank to 100 litters
+2013-09-11 17:40:06.234 basics[2799:303] 
+Tank is at 100 litters
+Road so far: 401km
+2013-09-11 17:40:06.235 basics[2799:303] 
+----------EXIT Pit Stop-----------
+2013-09-11 17:40:06.238 basics[2799:303] Traveling 100 km...
+2013-09-11 17:40:06.239 basics[2799:303] 
+Tank is at 75 litters
+Road so far: 501km
+2013-09-11 17:40:06.239 basics[2799:303] -Tire N1: 
+2013-09-11 17:40:06.240 basics[2799:303] 
+Pressure: 19
+Condition: Good (75)
+2013-09-11 17:40:06.242 basics[2799:303] -Tire N2: 
+2013-09-11 17:40:06.243 basics[2799:303] 
+Pressure: 19
+Condition: Good (75)
+2013-09-11 17:40:06.243 basics[2799:303] -Tire N3: 
+2013-09-11 17:40:06.244 basics[2799:303] 
+Pressure: 19
+Condition: Good (75)
+2013-09-11 17:40:06.245 basics[2799:303] -Tire N4: 
+2013-09-11 17:40:06.245 basics[2799:303] 
+Pressure: 19
+Condition: Good (75)
+2013-09-11 17:40:06.246 basics[2799:303] rer egale 12
+2013-09-11 17:40:06.252 basics[2799:303] Paris is capital of FRANCE
+2013-09-11 17:40:06.254 basics[2799:303] Washington is capital of USA
+2013-09-11 17:40:06.254 basics[2799:303] Moscow is capital of RUSSIA

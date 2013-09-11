@@ -10,7 +10,6 @@
 		A366EEB915F3C53A00BE1789 /* Tire.m in Sources */ = {isa = PBXBuildFile; fileRef = A366EEB815F3C53A00BE1789 /* Tire.m */; };
 		A3A3214715F29D4A005E721E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3A3214615F29D4A005E721E /* Foundation.framework */; };
 		A3A3214A15F29D4A005E721E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A3214915F29D4A005E721E /* main.m */; };
-		A3A3214E15F29D4A005E721E /* basics.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = A3A3214D15F29D4A005E721E /* basics.1 */; };
 		A3A3215615F2ABB5005E721E /* Car.m in Sources */ = {isa = PBXBuildFile; fileRef = A3A3215515F2ABB5005E721E /* Car.m */; };
 /* End PBXBuildFile section */
 
@@ -21,7 +20,6 @@
 			dstPath = /usr/share/man/man1/;
 			dstSubfolderSpec = 0;
 			files = (
-				A3A3214E15F29D4A005E721E /* basics.1 in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
@@ -34,7 +32,6 @@
 		A3A3214615F29D4A005E721E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A3A3214915F29D4A005E721E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A3A3214C15F29D4A005E721E /* ObjectiveC_Car-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ObjectiveC_Car-Prefix.pch"; sourceTree = "<group>"; };
-		A3A3214D15F29D4A005E721E /* basics.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = basics.1; sourceTree = "<group>"; };
 		A3A3215415F2AB57005E721E /* Car.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Car.h; sourceTree = "<group>"; };
 		A3A3215515F2ABB5005E721E /* Car.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Car.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -84,7 +81,6 @@
 				A3A3215515F2ABB5005E721E /* Car.m */,
 				A366EEB815F3C53A00BE1789 /* Tire.m */,
 				A3A3214915F29D4A005E721E /* main.m */,
-				A3A3214D15F29D4A005E721E /* basics.1 */,
 				A3A3214B15F29D4A005E721E /* Supporting Files */,
 			);
 			path = basics;
